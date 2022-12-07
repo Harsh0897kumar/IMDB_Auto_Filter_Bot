@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+IMDB+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+IMDB+𝗕𝗢𝗧!;𝗔+ADVANCE+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗜𝗠𝗗𝗕+𝗕𝗢𝗧!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝗜𝗠𝗗𝗕+𝗕𝗢𝗧!;𝗔+𝗔𝗗𝗩𝗔𝗡𝗖𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
   <img src="https://graph.org/file/eb3bc1f6c199ae8636342.jpg" alt="DQ-The-File-Donor Logo">
 </p>
