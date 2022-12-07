@@ -2,8 +2,7 @@
   <img src="https://graph.org/file/eb3bc1f6c199ae8636342.jpg" alt="DQ-The-File-Donor Logo">
 </p>
 <h1 align="center">
-  <b>Imdb bot
-<br><a href='https://t.me/Ak'>DQ-The-File-Donor</a> Bot</b>
+  <b>Imdb bot</b>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+DQ-The-File-Donor!;Created+by+Jᴏᴇʟ+ᠰ+TɢX!;A+simple+and+powerful+Bot!;Indexes+Files+above+2GB;A+Bot+with+double+button!;Start+message+with+pic!;And+more+features!)
