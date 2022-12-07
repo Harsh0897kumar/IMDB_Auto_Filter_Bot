@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://telegra.ph/file/171925d184de01b3055dc.jpg" alt="DQ-The-File-Donor Logo">
+  <img src="https://graph.org/file/eb3bc1f6c199ae8636342.jpg" alt="DQ-The-File-Donor Logo">
 </p>
 <h1 align="center">
   <b>Link Shortened Version Of
@@ -26,7 +26,7 @@
 - [x] Automatic File Filtering
 - [x] Double Filter Button
 - [x] Single Filter Button
-- [x] Bot PM File Send Mode
+- [x] Bot PM File Searcg Mode
 - [x] Auto File Send
 - [x] Forward Restriction
 - [x] File Protect
