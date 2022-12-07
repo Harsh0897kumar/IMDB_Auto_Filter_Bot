@@ -52,7 +52,7 @@
 - [x] Auto Delete
 - [x] And More...
 
-<b>To know about all features, Join our <a href='https://telegram.me/DQ_The_File_Donor_Updates'>updates channel</a>.</b>
+<b>To know about all features, Join our <a href='https://telegram.me/Imdb_updates'>updates channel</a>.</b>
 
 ## Commands
 ```
