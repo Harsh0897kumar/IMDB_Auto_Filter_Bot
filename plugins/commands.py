@@ -24,7 +24,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("sᴇᴀʀᴄʜ", switch_inline_query_current_chat=''), 
+            InlineKeyboardButton("ᴍᴏᴠɪᴇ ʟɪɴᴋ", url="https://t.me/Aksbackup"), 
             InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Imdb_updates")
             ],[      
             InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
@@ -47,7 +47,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("sᴇᴀʀᴄʜ", switch_inline_query_current_chat=''), 
+            InlineKeyboardButton("ᴍᴏᴠɪᴇ ʟɪɴᴋ", url="https://t.me/Aksbackup"), 
             InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Imdb_updates")
             ],[      
             InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
@@ -95,7 +95,7 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton("ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("sᴇᴀʀᴄʜ", switch_inline_query_current_chat=''), 
+            InlineKeyboardButton("ᴍᴏᴠɪᴇ ʟɪɴᴋ", url="https://t.me/Aksbackup"), 
             InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Imdb_updates")
             ],[      
             InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
